@@ -1,0 +1,9 @@
+This is two files of news app compnents 
+
+Features 
+
+
+1). Next & previous Buttons 
+2). page size 
+3). Just 20 news items os every page this script is also having.
+4). A if else function for next previous btn disabled and enable
